@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔬 I’m currently working on Computer Vision and Deep Learning to build intelligent systems that solve real-world problems.<br><br>🤝 I’m open to collaborating on AI, Machine Learning, and Computer Vision projects that tackle challenging and impactful problems.<br><br>🧠 I’m currently exploring advanced topics in Computer Vision, Deep Learning, and modern AI architectures.<br><br>💡 Ask me about AI, Computer Vision, and how I apply machine learning techniques to practical problems.<br><br>🏆 Fun fact: I have published 2 research papers in Deep Learning and Medical Imaging, including a Q1 journal publication, with several citations.
+🔬 I’m currently working on Computer Vision and Deep Learning to build intelligent systems that solve real-world problems.<br><br>🤝 I’m open to collaborating on AI, Machine Learning, and Computer Vision projects that tackle challenging and impactful problems.<br><br>🧠 I’m currently exploring advanced topics in Computer Vision, Deep Learning, and modern AI architectures.<br><br>💡 Ask me about AI, Computer Vision, and how I apply machine learning techniques to practical problems.<br><br>🏆 Fun fact: I have published 3 research papers in Deep Learning and Medical Imaging, including a Q1 journal publication, with several citations.
 
 
 ## 🌐 Socials:
