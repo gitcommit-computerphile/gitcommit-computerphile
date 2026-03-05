@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔬 I’m currently working on Computer Vision and Deep Learning to build intelligent systems that solve real-world problems.<br><br>🤝 I’m open to collaborating on AI, Machine Learning, and Computer Vision projects that tackle challenging and impactful problems.<br><br>🧠 I’m currently exploring advanced topics in Computer Vision, Deep Learning, and modern AI architectures.<br><br>💡 Ask me about AI, Computer Vision, and how I apply machine learning techniques to practical problems.<br><br>🏆 Fun fact: I have published 2 research papers in Deep Learning and Medical Imaging, including a Q1 journal publication, with several citations.
 
+A glimpse of some of my work https://github.com/user-attachments/assets/2a9b9079-3bb9-4863-87be-4a33cad2d5eb 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-bukhari-0794301b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullah.bukhari786@gmail.com) 
