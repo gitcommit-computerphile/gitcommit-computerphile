@@ -2,10 +2,10 @@
 
 Senior Software Engineer, mostly living at the intersection of computer vision, LLMs, and getting both of them to behave in production.
 
-By day, I build real time CV systems for industrial monitoring cameras on machines across 10 plant sites, models running end to end on Azure GPU VMs. A good chunk of my time goes into making those models fast and boring in a good-way: pruned and quantized inference down 30% without losing much accuracy, and stream/drift monitoring that catches a bad camera feed or a drifting model before it turns into a bad call on the plant floor.
+By day, I build real time CV systems for industrial monitoring cameras on machines across 10 plant sites, models running end to end on Azure GPU VMs. A good chunk of my time goes into making those models fast and boring in a good way: pruned and quantized inference down 30% without losing much accuracy, and stream/drift monitoring that catches a bad camera feed or a drifting model before it turns into a bad call on the plant floor.
 
 > [!TIP]
-> Right now I'm most heads-down on **RAG and agentic systems** - retrieval pipelines that ground LLMs in domain-specific data, and agents whose whole job is checking other agents' work: validating outputs, flagging bad predictions, enforcing guardrails automatically instead of hoping nothing slips through.
+> Right now I'm most heads-down on **RAG and agentic systems** retrieval pipelines that ground LLMs in domain-specific data, and agents whose whole job is checking other agents' work: validating outputs, flagging bad predictions, enforcing guardrails automatically instead of hoping nothing slips through.
 
 Outside of work I build smaller versions of the same ideas for fun, for instance CrewAI news pipeline that hunts down stories and fact-checks them before writing anything, and a small coding agent for the terminal.
 
