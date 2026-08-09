@@ -7,7 +7,7 @@ By day, I build real time CV systems for industrial monitoring cameras on machin
 > [!TIP]
 > Right now I'm most heads-down on **RAG and agentic systems** retrieval pipelines that ground LLMs in domain-specific data, and agents whose whole job is checking other agents' work: validating outputs, flagging bad predictions, enforcing guardrails automatically instead of hoping nothing slips through.
 
-Outside of work I build smaller versions of the same ideas for fun, for instance CrewAI news pipeline that hunts down stories and fact-checks them before writing anything, and a small coding agent for the terminal.
+Outside of work I build smaller versions of the same ideas for fun, for instance CrewAI news pipeline that hunts down stories and fact-checks them before writing anything, and coding agents for the terminal.
 
 I also published 2 papers in deep learning and medical imaging along the way, one in a Q1 journal.
 
