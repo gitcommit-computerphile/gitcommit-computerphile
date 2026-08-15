@@ -12,7 +12,11 @@ Outside of work I build smaller versions of the same ideas for fun.
 I have also published 2 papers in deep learning and medical imaging along the way, one in a Q1 journal.
 
 > [!NOTE]
-> A glimpse of some of my work: https://github.com/user-attachments/assets/2a9b9079-3bb9-4863-87be-4a33cad2d5eb
+> A glimpse of some of my work: 
+
+https://github.com/user-attachments/assets/729cd98d-476a-40b4-9c03-8f168cf367e8
+
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-bukhari-0794301b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullah.bukhari786@gmail.com)
